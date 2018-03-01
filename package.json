@@ -1,0 +1,19 @@
+{
+  "name": "hashcode",
+  "version": "1.0.0",
+  "description": "hashcode 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OctavianGuzu/Google-Hash-Code-2018.git"
+  },
+  "author": "Xor the World",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OctavianGuzu/Google-Hash-Code-2018/issues"
+  },
+  "homepage": "https://github.com/OctavianGuzu/Google-Hash-Code-2018#readme"
+}
